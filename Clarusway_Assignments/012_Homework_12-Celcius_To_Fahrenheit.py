@@ -11,7 +11,7 @@ Sample Output
 
 
 
-celsius = int(input())
+celsius = int(input('Please enter temperature in degree celcius: '))
 
 def conv(c):
     c = 9/5 * c + 32
